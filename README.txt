@@ -1,0 +1,1 @@
+Basic Jarvis AI skeleton project. Add Whisper + Hotword + OpenAI API later.
